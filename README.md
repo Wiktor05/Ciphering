@@ -20,3 +20,7 @@
 ## Setup
 Clone the repo
 ```git clone https://github.com/Wiktor05/Ciphering.git```
+
+## Application view
+<img src=”https://user-images.githubusercontent.com/84588442/177047339-410418d0-0e02-4ed4-b267-3790fd311370.PNG” width=”50%” height=”50%”>
+
